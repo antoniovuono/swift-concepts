@@ -11,5 +11,5 @@ var celsius = 20
 
 let fahrenheit = (celsius * 9 / 5) + 32
 
-print(" \(fahrenheit) F)
+print(" \(fahrenheit)F")
 
